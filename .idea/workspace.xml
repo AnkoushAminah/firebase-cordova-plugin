@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a2f8e86-7341-4672-812c-73286ce2bf8f" name="Default Changelist" comment="initial commit">
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/bytecodeAnalysis.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/bytecodeAnalysis.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/bytecodeAnalysis.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/fileIdToHashId" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/fileIdToHashId" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/fileIdToHashId_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/bytecodeanalysis/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name_inputs" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name_inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name_inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/editorconfig.index.name/editorconfig.index.name_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.keystream" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.keystream.len" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.len" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex_inputs" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex_inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex_inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex_inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex_inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filenameindex/FilenameIndex_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage.values" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage.values" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage.values.s" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes.storage.values.s" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes_inputs" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes_inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes_inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes_inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes_inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/filetypes/filetypes_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage.values" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage.values" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage.values.s" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage.values.s" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/IdIndex.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/fileIdToHashId" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/fileIdToHashId" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/fileIdToHashId_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/idindex/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values_inputs" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values_inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values_inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/json.file.root.values/json.file.root.values_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs.storage_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs_inputs" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs_inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs_inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/stubs/Stubs_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/TodoIndex.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/TodoIndex.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/TodoIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/TodoIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/fileIdToHashId" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/fileIdToHashId" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/fileIdToHashId_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/todoindex/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage.values" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage.values" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage.values.s" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage.values.s" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/Trigram.Index.storage_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/fileIdToHashId" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/fileIdToHashId" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/fileIdToHashId_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/trigram.index/fileIdToHashId_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex_inputs" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex_inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex_inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/typoscriptfileindex/TypoScriptFileIndex_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name.storage" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name_inputs" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name_inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name_inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/index/yaml.keys.name/yaml.keys.name_inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/log/idea.log" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/log/idea.log" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/vcs-log/hashes/26b081ac.16d1d80e.6" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/vcs-log/hashes/26b081ac.16d1d80e.6" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IdeaIC2019.1/system/vcs-users/26b081ac.2" beforeDir="false" afterPath="$USER_HOME$/.IdeaIC2019.1/system/vcs-users/26b081ac.2" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/other.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/other.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/recentProjects.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjects.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/updates.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/updates.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/tasks/inggezapp.contexts.zip" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/tasks/inggezapp.contexts.zip" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/tasks/inggezapp.tasks.zip" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/tasks/inggezapp.tasks.zip" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/tasks/inggezgateway.tasks.zip" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/tasks/inggezgateway.tasks.zip" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/workspace/1QdUsXI3s0Dv6Ux9HUR6MjmD9zK.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/workspace/1QdUsXI3s0Dv6Ux9HUR6MjmD9zK.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/workspace/1QdVlk9m8duCFCzroytAJnQsibf.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/workspace/1QdVlk9m8duCFCzroytAJnQsibf.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/LocalHistory/changes.storageData" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/LocalHistory/changes.storageData" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/LocalHistory/changes.storageRecordIndex" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/LocalHistory/changes.storageRecordIndex" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/Maven/Indices/Index0/data0/context/segments.gen" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/Maven/Indices/Index0/data0/context/segments.gen" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/Maven/Indices/Index0/data0/context/segments_9" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/Maven/Indices/Index0/index.properties" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/Maven/Indices/Index0/index.properties" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/Maven/Projects/ba10dd7/tree.dat" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/Maven/Projects/ba10dd7/tree.dat" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/attrib.dat.storageData" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/attrib.dat.storageData" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/attrib.dat.storageRecordIndex" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/attrib.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/content.dat.storageData" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/content.dat.storageData" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/content.dat.storageRecordIndex" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/content.dat.storageRecordIndex" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat.keystream" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat.keystream.len" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat_i" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/contentHashes.dat_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat.keystream" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat.keystream" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat.keystream.len" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat.keystream.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat.len" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat_i" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/names.dat_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/records.dat" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/records.dat" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/records.dat.len" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/caches/records.dat.len" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezapp_5d361d7d/ustamp" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezapp_5d361d7d/ustamp" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.inputs" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.storage" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.class.def.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.inputs" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.storage" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.storage" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.hierarchy.storage.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.inputs" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.inputs" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.inputs.values.at" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.inputs.values.at" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.inputs_i" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.inputs_i" afterDir="false" />
+      <change beforePath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.storage" beforeDir="false" afterPath="$USER_HOME$/.IntelliJIdea2019.2/system/compile-server/inggezgateway_ccf661e0/backward-refs/back.member.sign.storage" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>refspec</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="ProjectId" id="1QrwNL63XiJXsfxX5TMcQWUgYtz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cordova-plugin-firebase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cordova-plugin-firebase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a2f8e86-7341-4672-812c-73286ce2bf8f" name="Default Changelist" comment="" />
+      <created>1568277234419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568277234419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24696356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49959514" visible="true" weight="0.3197158" />
+      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50040483" side_tool="true" visible="true" weight="0.3197158" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
